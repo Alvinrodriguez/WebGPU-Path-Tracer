@@ -65,7 +65,7 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
+# Yarn Intregrity File 
 .yarn-integrity
 
 # dotenv environment variables file
@@ -75,14 +75,14 @@ typings/
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
-# Next.js build output
+# Next.js build output 
 .next
 
 # Nuxt.js build / generate output
 .nuxt
 dist
 
-# Gatsby files
+# Gatsby files 
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
@@ -91,7 +91,7 @@ dist
 # vuepress build output
 .vuepress/dist
 
-# Serverless directories
+# Serverless directories 
 .serverless/
 
 # FuseBox cache
