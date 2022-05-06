@@ -86,7 +86,7 @@ Camera.prototype.update = function(delta) {
       isKeyPressed("D") | 0,
       isKeyPressed(" ") | 0,
       isKeyPressed("C") | 0,
-      isKeyPressed("Shift") | 0
+      isKeyPressed("Shift") 0
     ],
     delta
   );
